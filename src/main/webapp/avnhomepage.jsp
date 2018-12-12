@@ -9,6 +9,7 @@ body{
 background-color: #f9f8f7;
 }
 #home
+
 {
 text-align: right;
 }
